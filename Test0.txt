@@ -2,3 +2,6 @@ Testing for the first time
 Перевірка
 I added two more lines
 Додавання рядків
+
+We added two more lines
+To check the changes in GitGUI and gitk
